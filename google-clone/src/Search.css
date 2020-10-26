@@ -46,3 +46,6 @@
 .search__buttonsHidden{
     display: none !important;
 }
+.MuiSvgIcon-root{
+    color:gray;
+}
