@@ -52,3 +52,35 @@
 .searchPage__option a {
     margin-left: 5px;
 }
+
+.searchPage__results{
+    margin-top: 20px;
+    margin-left: 240px;
+    margin-bottom: 100px;
+    max-width: 650px;
+}
+
+.searchPage__result {
+    margin: 40px 0;
+}
+
+.searchPage__resultCount{
+    color: #70757a;
+    font-size: 14px;
+}
+
+.searchPage__resultTitle:hover{
+    text-decoration: underline;
+}
+
+.searchPage__resultTitle > h2{
+    font-weight: 500;
+}
+
+.searchPage__resultSnippet{
+    margin-top: 10px;
+}
+
+a{
+    color: rgb(26 13 171);
+}
